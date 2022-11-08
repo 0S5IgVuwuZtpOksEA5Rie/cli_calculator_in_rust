@@ -1,16 +1,16 @@
-fn subtraction(int term1, int term2) {
+fn subtraction(term1: i32, term2: i32) {
     
 }
 
-fn addition(int term1, int term2) {
+fn addition(term1: i32, term2: i32) {
     
 }
 
-fn multiplication(int term1, int term2) {
+fn multiplication(term1: i32, term2: i32) {
     
 }
 
-fn division(int term1, int term2) {
+fn division(term1: i32, term2: i32) {
     
 }
 
